@@ -13,4 +13,5 @@ a little too fast to actually keep up with, which is something we decided not to
 if we did make that change. With that being said, there is a progress bar at the bottom to let the user know how much has been done and how
 much is left. After every run, the results are displayed to the console in a table. The results consist of the job I.D., job status, turnaround time, 
 total CPU wait time, and total IO wait time. Below this table, a few more lines are displayed to show the average CPU wait time, average IO wait time,
-average turnaround time, percentage of CPU utilization, and percentage of IO utilization.
+average turnaround time, percentage of CPU utilization, and percentage of IO utilization. The information displayed below the table is also saved to
+a file so that the user can compare the results of the other runs using different algorithms or number of CPUs and IOs.

@@ -1,0 +1,28 @@
+*Job
+  -PID
+  -arrival time
+  -cpu bursts
+  -I/O bursts
+  -CPU wait time
+  -I/O wait time
+  -Finish time
+
+*Job %d terminated: TAT = %d, Wait time = %d, I/O wait = %d
+
+*The dispatcher in the real world is what determines where everything goes in a system.
+
+*Clock ticks
+  -If any resource is available -> do the assignment
+  -Increment appropriate times
+
+Need to add multiple CPUs and IOs to the main function and 
+have it so that the proper algo can be passed in to the functon
+as a variable currently it is hardcoded for RR
+
+Things I need to complete:
+1. Calculate turnaround time 
+2. Calculate IO/CPU wait 
+3. Add the ability to have multiple CPUs and IOs
+4. Have the function take in number of CPUs Ios and 
+what scheduling algo is being used 
+5. Use his code to create a file to run 

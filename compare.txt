@@ -1,0 +1,189 @@
+Algorithm: rr
+The average CPU wait time is:29.0
+The average IO wait time is:840.28
+The average turn around time is:1047.96
+The percentage of CPU utiization is:76.25871417505809
+The percentage of I/O utiization is:66.9442292796282
+
+
+
+Algorithm: rr
+The average CPU wait time is:29.0
+The average IO wait time is:840.28
+The average turn around time is:1047.96
+The percentage of CPU utiization is:76.25871417505809
+The percentage of I/O utiization is:66.9442292796282
+
+
+
+Algorithm: fcfs
+The average CPU wait time is:27.4
+The average IO wait time is:699.48
+The average turn around time is:892.1
+The percentage of CPU utiization is:89.17572463768117
+The percentage of I/O utiization is:78.28351449275362
+
+
+
+Algorithm: fcfs
+The average CPU wait time is:27.4
+The average IO wait time is:699.48
+The average turn around time is:892.1
+The percentage of CPU utiization is:89.17572463768117
+The percentage of I/O utiization is:78.28351449275362
+
+
+
+Algorithm: pb
+The average CPU wait time is:28.42
+The average IO wait time is:694.48
+The average turn around time is:888.12
+The percentage of CPU utiization is:88.13786929274843
+The percentage of I/O utiization is:77.37242614145032
+
+
+
+Algorithm: pb
+The average CPU wait time is:28.42
+The average IO wait time is:694.48
+The average turn around time is:888.12
+The percentage of CPU utiization is:88.13786929274843
+The percentage of I/O utiization is:77.37242614145032
+
+
+
+Algorithm: sjf
+The average CPU wait time is:15.22
+The average IO wait time is:381.86
+The average turn around time is:562.3
+The percentage of CPU utiization is:81.76910299003323
+The percentage of I/O utiization is:71.78156146179401
+
+
+
+Algorithm: sjf
+The average CPU wait time is:15.22
+The average IO wait time is:381.86
+The average turn around time is:562.3
+The percentage of CPU utiization is:81.76910299003323
+The percentage of I/O utiization is:71.78156146179401
+
+
+
+Algorithm: srj
+The average CPU wait time is:14.64
+The average IO wait time is:378.02
+The average turn around time is:557.88
+The percentage of CPU utiization is:82.66162888329134
+The percentage of I/O utiization is:72.56507136859783
+
+
+
+Algorithm: srj
+The average CPU wait time is:14.64
+The average IO wait time is:378.02
+The average turn around time is:557.88
+The percentage of CPU utiization is:82.66162888329134
+The percentage of I/O utiization is:72.56507136859783
+
+
+
+Algorithm: rr
+The average CPU wait time is:27.7
+The average IO wait time is:708.46
+The average turn around time is:902.02
+The percentage of CPU utiization is:86.20840630472854
+The percentage of I/O utiization is:75.67863397548162
+
+
+
+Algorithm: rr
+The average CPU wait time is:27.7
+The average IO wait time is:708.46
+The average turn around time is:902.02
+The percentage of CPU utiization is:86.20840630472854
+The percentage of I/O utiization is:75.67863397548162
+
+
+
+Algorithm: fcfs
+The average CPU wait time is:240.42
+The average IO wait time is:122.04
+The average turn around time is:527.68
+The percentage of CPU utiization is:82.24728487886382
+The percentage of I/O utiization is:84.23489278752436
+
+
+
+Algorithm: fcfs
+The average CPU wait time is:240.42
+The average IO wait time is:122.04
+The average turn around time is:527.68
+The percentage of CPU utiization is:82.24728487886382
+The percentage of I/O utiization is:84.23489278752436
+
+
+
+Algorithm: pb
+The average CPU wait time is:845.7
+The average IO wait time is:33.76
+The average turn around time is:1044.68
+The percentage of CPU utiization is:42.94438386041439
+The percentage of I/O utiization is:87.96437659033079
+
+
+
+Algorithm: pb
+The average CPU wait time is:845.7
+The average IO wait time is:33.76
+The average turn around time is:1044.68
+The percentage of CPU utiization is:42.94438386041439
+The percentage of I/O utiization is:87.96437659033079
+
+
+
+Algorithm: srj
+The average CPU wait time is:18.72
+The average IO wait time is:847.4
+The average turn around time is:1031.34
+The percentage of CPU utiization is:86.93156732891832
+The percentage of I/O utiization is:76.31346578366445
+
+
+
+Algorithm: srj
+The average CPU wait time is:18.72
+The average IO wait time is:847.4
+The average turn around time is:1031.34
+The percentage of CPU utiization is:86.93156732891832
+The percentage of I/O utiization is:76.31346578366445
+
+
+
+Algorithm: sjf
+The average CPU wait time is:12.82
+The average IO wait time is:226.02
+The average turn around time is:404.06
+The percentage of CPU utiization is:74.83846446218169
+The percentage of I/O utiization is:65.69745343975674
+
+
+
+Algorithm: sjf
+The average CPU wait time is:12.82
+The average IO wait time is:226.02
+The average turn around time is:404.06
+The percentage of CPU utiization is:74.83846446218169
+The percentage of I/O utiization is:65.69745343975674
+
+
+
+Algorithm: rr
+The average CPU wait time is:1251.32
+The average IO wait time is:166.76
+The average turn around time is:1596.88
+The percentage of CPU utiization is:49.572004028197384
+The percentage of I/O utiization is:87.03423967774421
+
+
+
